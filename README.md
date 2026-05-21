@@ -1,18 +1,3 @@
-<!--
-**vishalbaskar1/vishalbaskar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hey, I'm Vishal Baskar 👋
 
 🎓 Sophomore at UT Dallas — B.S. Business Analytics & AI + Supply Chain Management
@@ -33,6 +18,12 @@ Currently i'm building experience in analytics, machine learning, and supply cha
 - Google Data Analytics Certificate (Coursera)
 - Building a sales performance dashboard in Tableau
 - Learning pandas and data wrangling in Python
+
+## ✅ Completed
+| Type | Name | Date |
+|------|------|------|
+| 🎓 Cert | Google Data Analytics — Course 1 & 2 (Coursera) | May 2026 |
+| 💻 Skill | SQL — Beginner Level | May 2026 |
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/vishalbaskar
